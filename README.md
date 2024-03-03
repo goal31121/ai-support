@@ -12,7 +12,7 @@ This repository contains the Dockerized version of the AI-powered customer suppo
 ### Prerequisites
 Docker installed on your system.
 
----
+<!-- ---
 ### Setup Instruction
 1. Clone the Repository
 ```bash
@@ -56,7 +56,7 @@ Visit in your browser: http://127.0.0.1:8000
 docker stop <container_id>
 ```
 Your data remains safe because of the Docker volume.
-
+ -->
 
 ### Assumptions
 
@@ -86,4 +86,4 @@ Your data remains safe because of the Docker volume.
 
 
 ### Contact/Support
-This project is maintained by Aahana Bobade. For any issues or questions regarding setup or usage, please contact via GitHub or email(aahanabobade@gmail.com).
+This project is maintained by Aahana Bobade. For any issues or questions regarding setup or usage, please contact via GitHub or email(success.goal199531121@gmail.com).
