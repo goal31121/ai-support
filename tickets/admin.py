@@ -6,5 +6,3 @@ class TicketAdmin(admin.ModelAdmin):
     list_display = ('subject', 'customer', 'category', 'status', 'created_at')
     list_filter = ('status', 'category')
     search_fields = ('subject', 'message', 'customer__username')
-
-#This makes it easy for admins to view, search, and filter tickets in the Django admin panel.
