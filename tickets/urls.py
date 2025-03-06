@@ -19,5 +19,3 @@ urlpatterns = [
     path('ticket/<int:ticket_id>/', views.customer_ticket_detail, name='customer_ticket_detail'),
 
 ]
-
-#Each URL connects a web address to a view function, enabling navigation and interaction with the ticket system
